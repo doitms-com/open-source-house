@@ -1,0 +1,11 @@
+ID,Descrição,Disjuntor (A),Secção (mm²),Pontos,Potência instalada (W),Diferencial 30 mA,SPD T2
+C1,Iluminação geral (LED 18 W médio),10,1.5,16,800,SIM,—
+C10,Tomadas + luz exterior,16,2.5,4,1000,SIM,—
+C2,Tomadas sala + quartos + hall,16,2.5,12,1600,SIM,—
+C3,Tomadas cozinha (6 unid. bancada),16,2.5,7,1600,SIM,—
+C4,Frigorífico dedicado,16,2.5,1,400,SIM,—
+C5,Máquina lavar/secar roupa + loiça,16,2.5,3,2400,SIM,—
+C6,Placa indução + forno,32,6.0,2,7400,SIM,—
+C7,AQS (bomba calor),16,2.5,1,1800,SIM,—
+C8,AVAC (climatização),16,2.5,4,1600,SIM,—
+C9,WC (luz + tomada IP44),16,2.5,6,800,SIM,—

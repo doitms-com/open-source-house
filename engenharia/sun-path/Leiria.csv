@@ -1,0 +1,37 @@
+Data-chave;Hora civil (h);Altitude (°);Azimute (°, N=0°);Hora solar (h)
+Solstício Verão;5;10.04;247.76;5.565
+Solstício Verão;6;21.00;256.40;6.565
+Solstício Verão;7;32.37;265.09;7.565
+Solstício Verão;8;43.90;274.69;8.565
+Solstício Verão;9;55.22;286.85;9.565
+Solstício Verão;10;65.60;305.45;10.565
+Solstício Verão;11;72.80;339.36;11.565
+Solstício Verão;12;72.20;26.26;12.565
+Solstício Verão;13;64.35;57.60;13.565
+Solstício Verão;14;53.77;74.98;14.565
+Solstício Verão;15;42.40;86.66;15.565
+Solstício Verão;16;30.88;96.08;16.565
+Solstício Verão;17;19.54;104.72;17.565
+Solstício Verão;18;8.65;113.39;18.565
+Equinócios;6;5.00;274.70;6.456
+Equinócios;7;16.36;284.69;7.456
+Equinócios;8;27.17;295.91;8.456
+Equinócios;9;36.88;309.44;9.456
+Equinócios;10;44.63;326.46;10.456
+Equinócios;11;49.17;347.47;11.456
+Equinócios;12;49.37;10.55;12.456
+Equinócios;13;45.17;31.86;13.456
+Equinócios;14;37.65;49.23;14.456
+Equinócios;15;28.07;63.02;15.456
+Equinócios;16;17.33;74.40;16.456
+Equinócios;17;6.00;84.46;17.456
+Solstício Inverno;7;2.09;303.24;7.624
+Solstício Inverno;8;11.12;313.70;8.624
+Solstício Inverno;9;18.59;325.66;9.624
+Solstício Inverno;10;23.94;339.27;10.624
+Solstício Inverno;11;26.59;354.21;11.624
+Solstício Inverno;12;26.21;9.57;12.624
+Solstício Inverno;13;22.85;24.24;13.624
+Solstício Inverno;14;16.92;37.45;14.624
+Solstício Inverno;15;9.02;49.01;15.624
+Solstício Inverno;16;-0.32;59.15;16.624

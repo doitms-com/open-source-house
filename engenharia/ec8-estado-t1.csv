@@ -1,0 +1,11 @@
+Estado,Direcção,Parede,L total (m),L resistente (m),Troços (m)
+T1,X (E-O),Parede Sul,9.0,6.3,1.71 + 2.09 + 1.38 + 1.12
+T1,Y (N-S),Parede Leste,5.5,4.3,3.64 + 0.66
+T1,X (E-O),Parede Norte,9.0,4.8,0.90 + 0.60 + 1.90 + 1.40
+T1,Y (N-S),Parede Oeste,5.5,4.3,0.66 + 3.64
+
+Estado,Direcção,Cenário,Município,V_Ed (kN),L resist. Σ (m),Capacidade @ r_d=5.0 kN/m (kN),Margem base (×),r_d necessário p/ 1.5× (kN/m),OK com r_d base
+T1,X (E-O),continente pior,Faro,247.9,11.1,55.5,0.22,33.5,NÃO
+T1,X (E-O),nacional pior (RA),Ponta Delgada (S. Miguel),275.5,11.1,55.5,0.2,37.2,NÃO
+T1,Y (N-S),continente pior,Faro,247.9,8.6,43.0,0.17,43.2,NÃO
+T1,Y (N-S),nacional pior (RA),Ponta Delgada (S. Miguel),275.5,8.6,43.0,0.16,48.1,NÃO

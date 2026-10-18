@@ -1,0 +1,5 @@
+Compartimento,Tipo,Área (m²),Pé-direito (m),Envidraçado (m²),DF céu claro (%),DF céu nublado (%),DF alvo (%),Conforme alvo?
+Sala / Cozinha aberta (com hall),sala,22.95,2.7,6.39,4.67,4.15,2.0,SIM
+Quarto principal,quarto,11.34,2.7,1.44,1.74,1.55,1.5,SIM
+Casa de banho,wc,6.08,2.7,0.36,0.66,0.59,0.6,SIM
+Hall (aberto à sala),sala,5.0,2.7,0.0,0.0,0.0,2.0,NÃO

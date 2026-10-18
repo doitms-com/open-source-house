@@ -1,0 +1,5 @@
+Compartimento,Tipo,Área (m²),Lux alvo (mantido),N pontos LED,Potência LED total (W),CCT (K),Lúmens/m²,CRI alvo
+Sala / Cozinha aberta (com hall),sala,22.95,200,4,64,3000,307,90
+Quarto principal,quarto,11.34,100,2,16,2700,155,90
+Casa de banho,wc,6.08,200,3,17,3500,308,90
+Hall (aberto à sala),sala,5.0,200,3,14,3000,308,90

@@ -1,0 +1,2 @@
+ZI,ZV,GD (°C·dia),M (meses),Ap (m²),Htr (W/K),Hve (W/K),"Qtr,i (kWh)","Qve,i (kWh)","Qint,i (kWh)","Qsol,i (kWh)",η_i,Nic (kWh/m²·ano),Ni (kWh/m²·ano),Nic ≤ Ni,Nvc (kWh/m²·ano),Nv (kWh/m²·ano),Nvc ≤ Nv,Qa AQS (kWh/ano),Eren autoconsumo (kWh/ano),Ntc (kWhEP/m²·ano),Nt (kWhEP/m²·ano),R = Ntc/Nt,Classe SCE (estimada),Conforme REH
+I1,V2,1200,5.5,45.37,61.2,18.7,1761.0,540.0,719.0,527.0,0.896,26.1,49.5,SIM,23.7,31.6,SIM,1070.0,1040.0,2.7,93.4,0.028,A+,SIM

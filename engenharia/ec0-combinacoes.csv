@@ -1,0 +1,5 @@
+Combinação,Expressão,Município governante,E_d,R_d,Margem (×),OK ≥ 1.5×
+C1b 6.10 gravítica deck (base),"1.35·G_deck + 1.5·5.0 (cat. C3/I — nunca +S nem +W, §3.3.2)",Nacional (uniforme),9.22 kN/m²,dimensionado fora deste módulo (validador: ficheiro não publicado),n/a,VER VALIDADOR
+C2a 6.10 uplift deck (base),"0.9·G − 1.5·W (c_pe −1.4, c_pi +0.2)",Vila do Corvo (Corvo),237.2 kN (net),0 kN (configuração sem tirantes no deck),n/a,"NÃO CONFIRMADO — depende da fixação contínua à viga de bordo (rim joist), ver nota OE"
+C3 6.10 vento lateral,1.5·W fachada,Vila do Corvo (Corvo),121.6 kN,50×20 = 1000 kN,8.23,SIM
+C4 sísmica (deck),"G + ψ₂·Q + E (ψ₂ = 0.3, cat. A)",Ponta Delgada (S. Miguel),5.51 kN/anc.,F_Rd = 20 kN,3.63,SIM

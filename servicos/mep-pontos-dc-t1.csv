@@ -1,0 +1,77 @@
+Compartimento,Tipo,Circuito,Ampacidade (A),Secção (mm²),IP,Altura (cm),Descrição
+sala,tomada,C2,16,2.5,IP20,30,Bancada TV
+sala,tomada,C2,16,2.5,IP20,30,Sofá 1
+sala,tomada,C2,16,2.5,IP20,30,Sofá 2
+sala,tomada,C2,16,2.5,IP20,30,Mesa jantar
+sala,tomada,C2,16,2.5,IP20,30,Reserva 1
+sala,tomada,C2,16,2.5,IP20,30,Reserva 2
+sala,luz_geral,C1,10,1.5,IP20,240,Plafond LED 18 W
+sala,luz_pontual,C1,10,1.5,IP20,240,Luminária TV
+sala,luz_pontual,C1,10,1.5,IP20,240,Luz mesa jantar
+sala,interruptor,C1,10,1.5,IP20,110,Interruptor 2-way entrada
+sala,interruptor,C1,10,1.5,IP20,110,Interruptor 2-way cozinha
+sala,ponto_dados,RIT,0,0,IP20,30,Cat6A → ATI
+sala,ponto_tv,RIT,0,0,IP20,30,Coaxial + Cat6A
+cozinha,tomada,C3,16,2.5,IP21,110,Bancada esquerda 1
+cozinha,tomada,C3,16,2.5,IP21,110,Bancada esquerda 2
+cozinha,tomada,C3,16,2.5,IP21,110,Bancada direita 1
+cozinha,tomada,C3,16,2.5,IP21,110,Bancada direita 2
+cozinha,tomada,C3,16,2.5,IP20,30,Reserva 1
+cozinha,tomada,C3,16,2.5,IP20,30,Reserva 2
+cozinha,tomada,C4,16,2.5,IP20,30,Frigorífico (dedicada)
+cozinha,tomada,C5,16,2.5,IP20,30,Máquina lavar loiça
+cozinha,tomada,C6,32,6.0,IP20,30,Placa indução
+cozinha,tomada,C6,16,2.5,IP20,30,Forno (16 A)
+cozinha,tomada,C3,16,2.5,IP21,200,Exaustor (sobre a placa)
+cozinha,luz_pontual,C1,10,1.5,IP21,240,Luz tarefa bancada
+cozinha,luz_geral,C1,10,1.5,IP21,240,Plafond LED
+cozinha,ponto_agua_fria,AF,0,0,IP20,60,Lava-loiça
+cozinha,ponto_agua_quente,AQ,0,0,IP20,60,Lava-loiça
+cozinha,ponto_agua_fria,AF,0,0,IP20,60,Máquina lavar loiça
+cozinha,dreno,ARD,0,0,IP20,5,Sifão lava-loiça Ø50
+quarto,tomada,C2,16,2.5,IP20,30,Cama lado A (principal)
+quarto,tomada,C2,16,2.5,IP20,30,Cama lado B (principal)
+quarto,tomada,C2,16,2.5,IP20,30,Secretária (principal)
+quarto,tomada,C2,16,2.5,IP20,30,Reserva (principal)
+quarto,luz_geral,C1,10,1.5,IP20,240,Plafond (principal)
+quarto,luz_pontual,C1,10,1.5,IP20,240,Cabeceira A (principal)
+quarto,luz_pontual,C1,10,1.5,IP20,240,Cabeceira B (principal)
+quarto,interruptor,C1,10,1.5,IP20,110,Int. hotel A (principal)
+quarto,interruptor,C1,10,1.5,IP20,110,Int. hotel B (principal)
+quarto,ponto_dados,RIT,0,0,IP20,30,Cat6A (principal)
+wc,tomada_estanque,C9,16,2.5,IP44,90,Espelho lavatório
+wc,tomada_estanque,C9,16,2.5,IP44,30,Máquina barbear
+wc,luz_pontual,C9,10,1.5,IP65,200,Luz duche/banheira IP65
+wc,luz_pontual,C9,10,1.5,IP44,200,Luz espelho IP44
+wc,luz_geral,C9,10,1.5,IP44,240,Plafond
+wc,tomada,C9,16,2.5,IP44,240,Extractor higrocontrolado (tecto)
+wc,ponto_agua_fria,AF,0,0,IP20,30,Sanita
+wc,ponto_agua_fria,AF,0,0,IP20,60,Lavatório
+wc,ponto_agua_quente,AQ,0,0,IP20,60,Lavatório
+wc,ponto_agua_fria,AF,0,0,IP20,100,Duche/banheira
+wc,ponto_agua_quente,AQ,0,0,IP20,100,Duche/banheira
+wc,dreno,ARD,0,0,IP20,5,Sifão lavatório Ø50
+wc,dreno,ARD,0,0,IP20,5,Sifão duche Ø50
+wc,dreno,ARD,0,0,IP20,0,Sanita Ø100
+hall,tomada,C2,16,2.5,IP20,30,Hall 1
+hall,tomada,C2,16,2.5,IP20,30,Hall 2
+hall,luz_geral,C1,10,1.5,IP20,240,Plafond
+hall,interruptor,C1,10,1.5,IP20,110,Int. hotel A
+hall,interruptor,C1,10,1.5,IP20,110,Int. hotel B
+lavandaria,tomada,C5,16,2.5,IP20,30,Máquina lavar roupa
+lavandaria,tomada,C5,16,2.5,IP20,30,Máquina secar roupa
+lavandaria,tomada,C7,16,2.5,IP20,30,Bomba calor AQS
+lavandaria,luz_geral,C1,10,1.5,IP44,240,Plafond
+lavandaria,ponto_agua_fria,AF,0,0,IP20,60,Máquina lavar
+lavandaria,ponto_agua_fria,AF,0,0,IP20,60,Tanque
+lavandaria,ponto_agua_quente,AQ,0,0,IP20,60,Tanque
+lavandaria,dreno,ARD,0,0,IP20,5,Tanque + máquinas Ø50
+exterior,tomada_estanque,C10,16,2.5,IP55,60,Tomada exterior 1
+exterior,tomada_estanque,C10,16,2.5,IP55,60,Tomada exterior 2
+exterior,luz_exterior,C10,10,1.5,IP65,240,Luz entrada + crepuscular
+exterior,luz_exterior,C10,10,1.5,IP65,240,Luz tardoz
+exterior,ponto_agua_fria,AF,0,0,IP20,60,Torneira regadio
+tecnico,tomada,C8,16,2.5,IP20,30,AVAC unidade interior 1
+tecnico,tomada,C8,16,2.5,IP20,30,AVAC unidade exterior
+tecnico,tomada,C8,16,2.5,IP20,240,HRV/Recuperador (se aplicável)
+tecnico,termostato,C8,10,1.5,IP20,150,Termostato AVAC

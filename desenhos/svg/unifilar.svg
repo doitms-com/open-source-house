@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:title>Doitms Casa DC-T1 — Esquema unifilar</dc:title>
+<dc:identifier>DC-T1 DE.05 selo c2d1ffeb79f1</dc:identifier>
+<dc:date>2026-10-15</dc:date>
+<dc:rights>CC BY-SA 4.0</dc:rights>
+<cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<style>
+  .frame    { stroke: #333; stroke-width: 0.35; fill: none; }
+  .busbar   { stroke: #d4a017; stroke-width: 1.4; fill: none; }
+  .cabo-L   { stroke: #444; stroke-width: 0.7; fill: none; }
+  .cabo-PE  { stroke: #2f8a2f; stroke-width: 0.7; fill: none;
+              stroke-dasharray: 1.4 0.7; }
+  .simbolo  { stroke: #111; stroke-width: 0.45; fill: #fff;
+              stroke-linejoin: round; }
+  .label    { font: 2.4px Helvetica, Arial, sans-serif; fill: #111; }
+  .small    { font: 1.9px Helvetica, Arial, sans-serif; fill: #444; }
+  .title    { font: 5px Helvetica, Arial, sans-serif; fill: #111;
+              font-weight: bold; }
+  .subtitle { font: 3.0px Helvetica, Arial, sans-serif; fill: #333; }
+  .cartouche{ font: 2.6px Helvetica, Arial, sans-serif; fill: #111; }
+  .note     { font: 2.2px Helvetica, Arial, sans-serif; fill: #333; }
+</style>
+<rect x="3" y="3" width="414.0" height="291.0" class="frame"/>
+<text x="210.0" y="14" class="title" text-anchor="middle">Esquema unifilar — Casa Base T1 — quadro principal QE-01</text>
+<text x="210.0" y="20" class="subtitle" text-anchor="middle">Monofásico 230 V  ·  P contratada: 6.90 kVA  ·  IG bipolar 40 A  ·  Diferencial geral 30 mA Classe A</text>
+<rect x="18.0" y="38.0" width="28.0" height="12.0" class="simbolo"/>
+<text x="32.0" y="44.9" class="label" text-anchor="middle">PT 230 V</text>
+<text x="32.0" y="52.5" class="small" text-anchor="middle">Entrada E-REDES</text>
+<line x1="32.0" y1="50.0" x2="32.0" y2="56.0" class="cabo-L"/>
+<rect x="18.0" y="56.0" width="28.0" height="12.0" class="simbolo"/>
+<text x="32.0" y="62.9" class="label" text-anchor="middle">kWh</text>
+<text x="32.0" y="70.5" class="small" text-anchor="middle">Contador electrónico C5 (CMC)</text>
+<line x1="32.0" y1="68.0" x2="32.0" y2="74.0" class="cabo-L"/>
+<rect x="18.0" y="74.0" width="28.0" height="12.0" class="simbolo"/>
+<line x1="23.6" y1="77.6" x2="40.4" y2="82.4" stroke="#111" stroke-width="0.4"/>
+<text x="32.0" y="88.5" class="label" text-anchor="middle">IG bipolar 40 A</text>
+<line x1="32.0" y1="86.0" x2="32.0" y2="92.0" class="cabo-L"/>
+<rect x="18.0" y="92.0" width="28.0" height="12.0" class="simbolo"/>
+<line x1="23.6" y1="95.6" x2="40.4" y2="100.4" stroke="#111" stroke-width="0.4"/>
+<text x="32.0" y="106.5" class="label" text-anchor="middle">ID 2P 40 A · 30 mA</text>
+<line x1="32.0" y1="104.0" x2="32.0" y2="116.0" class="cabo-L"/>
+<line x1="32.0" y1="116.0" x2="400.0" y2="116.0" class="busbar"/>
+<text x="396.0" y="114.0" class="small" text-anchor="end">Barramento L + N (4P)</text>
+<line x1="88.6" y1="116.0" x2="88.6" y2="122.0" class="cabo-L"/>
+<rect x="81.6" y="117.5" width="14.0" height="3.2" fill="#ffd400" stroke="#222" stroke-width="0.18"/>
+<text x="88.6" y="120.0" class="small" text-anchor="middle">Q1</text>
+<rect x="81.6" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="84.4" y1="125.0" x2="92.8" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="88.6" y="134.5" class="label" text-anchor="middle">D6 A</text>
+<line x1="88.6" y1="132.0" x2="88.6" y2="162.0" class="cabo-L"/>
+<text x="88.6" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q1</text>
+<text x="88.6" y="170.0" class="small" text-anchor="middle">1.5 mm² Cu</text>
+<text x="88.6" y="173.0" class="small" text-anchor="middle">≈ 800 W</text>
+<text x="88.6" y="179.0" class="small" text-anchor="middle">Iluminação</text>
+<text x="88.6" y="182.0" class="small" text-anchor="middle">geral (sala/quarto/WC/exterior)</text>
+<line x1="145.2" y1="116.0" x2="145.2" y2="122.0" class="cabo-L"/>
+<rect x="138.2" y="117.5" width="14.0" height="3.2" fill="#f5f5f5" stroke="#222" stroke-width="0.18"/>
+<text x="145.2" y="120.0" class="small" text-anchor="middle">Q2</text>
+<rect x="138.2" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="141.0" y1="125.0" x2="149.4" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="145.2" y="134.5" class="label" text-anchor="middle">D16 A</text>
+<rect x="138.2" y="140.0" width="14.0" height="7.1" class="simbolo"/>
+<text x="145.2" y="144.5" class="label" text-anchor="middle">30 mA</text>
+<line x1="145.2" y1="132.0" x2="145.2" y2="140.0" class="cabo-L"/>
+<line x1="145.2" y1="147.1" x2="145.2" y2="162.0" class="cabo-L"/>
+<text x="145.2" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q2</text>
+<text x="145.2" y="170.0" class="small" text-anchor="middle">2.5 mm² Cu</text>
+<text x="145.2" y="173.0" class="small" text-anchor="middle">≈ 3500 W</text>
+<text x="145.2" y="179.0" class="small" text-anchor="middle">Tomadas sala /</text>
+<text x="145.2" y="182.0" class="small" text-anchor="middle">quarto / corredor</text>
+<line x1="201.8" y1="116.0" x2="201.8" y2="122.0" class="cabo-L"/>
+<rect x="194.8" y="117.5" width="14.0" height="3.2" fill="#ff8c00" stroke="#222" stroke-width="0.18"/>
+<text x="201.8" y="120.0" class="small" text-anchor="middle">Q3</text>
+<rect x="194.8" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="197.6" y1="125.0" x2="206.0" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="201.8" y="134.5" class="label" text-anchor="middle">D16 A</text>
+<rect x="194.8" y="140.0" width="14.0" height="7.1" class="simbolo"/>
+<text x="201.8" y="144.5" class="label" text-anchor="middle">30 mA</text>
+<line x1="201.8" y1="132.0" x2="201.8" y2="140.0" class="cabo-L"/>
+<line x1="201.8" y1="147.1" x2="201.8" y2="162.0" class="cabo-L"/>
+<text x="201.8" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q3</text>
+<text x="201.8" y="170.0" class="small" text-anchor="middle">2.5 mm² Cu</text>
+<text x="201.8" y="173.0" class="small" text-anchor="middle">≈ 3500 W</text>
+<text x="201.8" y="179.0" class="small" text-anchor="middle">Tomadas cozinha (bancada)</text>
+<line x1="258.5" y1="116.0" x2="258.5" y2="122.0" class="cabo-L"/>
+<rect x="251.5" y="117.5" width="14.0" height="3.2" fill="#ff8c00" stroke="#222" stroke-width="0.18"/>
+<text x="258.5" y="120.0" class="small" text-anchor="middle">Q4</text>
+<rect x="251.5" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="254.3" y1="125.0" x2="262.7" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="258.5" y="134.5" class="label" text-anchor="middle">D20 A</text>
+<line x1="258.5" y1="132.0" x2="258.5" y2="162.0" class="cabo-L"/>
+<text x="258.5" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q4</text>
+<text x="258.5" y="170.0" class="small" text-anchor="middle">4.0 mm² Cu</text>
+<text x="258.5" y="173.0" class="small" text-anchor="middle">≈ 4500 W</text>
+<text x="258.5" y="179.0" class="small" text-anchor="middle">Tomada AVAC dedicada</text>
+<text x="258.5" y="182.0" class="small" text-anchor="middle">(frigorífico + placa indução)</text>
+<line x1="315.1" y1="116.0" x2="315.1" y2="122.0" class="cabo-L"/>
+<rect x="308.1" y="117.5" width="14.0" height="3.2" fill="#1f7ad8" stroke="#222" stroke-width="0.18"/>
+<text x="315.1" y="120.0" class="small" text-anchor="middle">Q5</text>
+<rect x="308.1" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="310.9" y1="125.0" x2="319.3" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="315.1" y="134.5" class="label" text-anchor="middle">D16 A</text>
+<rect x="308.1" y="140.0" width="14.0" height="7.1" class="simbolo"/>
+<text x="315.1" y="144.5" class="label" text-anchor="middle">30 mA</text>
+<line x1="315.1" y1="132.0" x2="315.1" y2="140.0" class="cabo-L"/>
+<line x1="315.1" y1="147.1" x2="315.1" y2="162.0" class="cabo-L"/>
+<text x="315.1" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q5</text>
+<text x="315.1" y="170.0" class="small" text-anchor="middle">2.5 mm² Cu</text>
+<text x="315.1" y="173.0" class="small" text-anchor="middle">≈ 1500 W</text>
+<text x="315.1" y="179.0" class="small" text-anchor="middle">Casa de banho (tomada</text>
+<text x="315.1" y="182.0" class="small" text-anchor="middle">IP44 + iluminação WC)</text>
+<line x1="371.7" y1="116.0" x2="371.7" y2="122.0" class="cabo-L"/>
+<rect x="364.7" y="117.5" width="14.0" height="3.2" fill="#d12424" stroke="#222" stroke-width="0.18"/>
+<text x="371.7" y="120.0" class="small" text-anchor="middle">Q6</text>
+<rect x="364.7" y="122.0" width="14.0" height="10.0" class="simbolo"/>
+<line x1="367.5" y1="125.0" x2="375.9" y2="129.0" stroke="#111" stroke-width="0.4"/>
+<text x="371.7" y="134.5" class="label" text-anchor="middle">D20 A</text>
+<rect x="364.7" y="140.0" width="14.0" height="7.1" class="simbolo"/>
+<text x="371.7" y="144.5" class="label" text-anchor="middle">30 mA</text>
+<line x1="371.7" y1="132.0" x2="371.7" y2="140.0" class="cabo-L"/>
+<line x1="371.7" y1="147.1" x2="371.7" y2="162.0" class="cabo-L"/>
+<text x="371.7" y="166.0" class="label" text-anchor="middle" font-weight="bold">Q6</text>
+<text x="371.7" y="170.0" class="small" text-anchor="middle">4.0 mm² Cu</text>
+<text x="371.7" y="173.0" class="small" text-anchor="middle">≈ 3000 W</text>
+<text x="371.7" y="179.0" class="small" text-anchor="middle">Termoacumulador AQS</text>
+<line x1="18.0" y1="247.0" x2="402.0" y2="247.0" class="cabo-PE"/>
+<text x="18.0" y="245.0" class="small">PE 6 mm² Cu — Condutor de protecção / terra (TT)</text>
+<rect x="388.0" y="242.0" width="16.0" height="10.0" class="simbolo"/>
+<text x="396.0" y="247.9" class="label" text-anchor="middle">Eléctrodo terra</text>
+<text x="396.0" y="254.5" class="small" text-anchor="middle">Cu Ø14 mm L=2 m</text>
+<text x="18.0" y="265.0" class="note" font-weight="bold">Notas técnicas — TRIE / CERTIEL:</text>
+<text x="18.0" y="269.0" class="note">·  Quadro QE-01 — 12 módulos DIN.</text>
+<text x="18.0" y="272.4" class="note">·  Esquema de ligação à terra: TT (terra própria por eléctrodo verniz cobreado L=2 m + PE 6 mm² Cu).</text>
+<text x="18.0" y="275.8" class="note">·  Disjuntor geral diferencial 30 mA Classe A + IG bipolar.</text>
+<text x="18.0" y="279.2" class="note">·  Sismicidade: recomenda-se IG acessível a menos de 2 m do chão.</text>
+<text x="18.0" y="282.6" class="note">·  Etiquetagem colorida Doitms (convenção interna) — ver legenda no canto inferior direito + CSV etiquetas-quadro-DC-T1.csv para impressão TRIE.</text>
+<text x="330.0" y="237.0" class="note" font-weight="bold">Etiquetagem colorida do quadro (Doitms):</text>
+<rect x="330.0" y="238.6" width="5.0" height="3.0" fill="#ffd400" stroke="#222" stroke-width="0.18"/>
+<text x="336.5" y="241.0" class="note">Iluminação geral</text>
+<rect x="330.0" y="242.0" width="5.0" height="3.0" fill="#f5f5f5" stroke="#222" stroke-width="0.18"/>
+<text x="336.5" y="244.4" class="note">Tomadas standard</text>
+<rect x="330.0" y="245.4" width="5.0" height="3.0" fill="#ff8c00" stroke="#222" stroke-width="0.18"/>
+<text x="336.5" y="247.8" class="note">Cargas dedicadas (cozinha · AVAC)</text>
+<rect x="330.0" y="248.8" width="5.0" height="3.0" fill="#1f7ad8" stroke="#222" stroke-width="0.18"/>
+<text x="336.5" y="251.2" class="note">Casa de banho (zona 1/2/3 RTIEBT)</text>
+<rect x="330.0" y="252.2" width="5.0" height="3.0" fill="#d12424" stroke="#222" stroke-width="0.18"/>
+<text x="336.5" y="254.6" class="note">AQS · termoacumulador</text>
+<text x="400.0" y="265.0" class="small" text-anchor="end">n/a (documentação de referência, sem autor de projecto)</text>
+<text x="400.0" y="268.0" class="small" text-anchor="end">Variante: continente</text>
+<text x="400.0" y="271.0" class="small" text-anchor="end">Folha 11/11</text>
+<text x="400.0" y="274.0" class="small" text-anchor="end">Versão: selo c2d1ffeb79f1</text>
+<text x="400.0" y="277.0" class="small" text-anchor="end">Data: 2026-10-15</text>
+<text x="400.0" y="280.0" class="small" text-anchor="end">Licença: CC BY-SA 4.0</text>
+<text x="400.0" y="283.0" class="cartouche" text-anchor="end">Doitms Casa DC-T1 · DE.05 · Folha 11/11 · CC BY-SA 4.0 · selo c2d1ffeb79f1</text>
+<text x="400.0" y="287.0" class="small" text-anchor="end">Não é projecto nem tem termo de responsabilidade; não construir sem profissionais habilitados.</text>
+</svg>

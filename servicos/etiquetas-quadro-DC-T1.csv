@@ -1,0 +1,7 @@
+circuito,cor,hex,texto_etiqueta,mcb,cabo_mm2,carga_w
+Q1,amarelo,#ffd400,Q1 · Iluminação geral (sala/quarto/WC/exterior),D6A,1.5,800
+Q2,branco,#f5f5f5,Q2 · Tomadas sala / quarto / corredor,D16A,2.5,3500
+Q3,laranja,#ff8c00,Q3 · Tomadas cozinha (bancada),D16A,2.5,3500
+Q4,laranja,#ff8c00,Q4 · Tomada AVAC dedicada (frigorífico + placa indução),D20A,4.0,4500
+Q5,azul,#1f7ad8,Q5 · Casa de banho (tomada IP44 + iluminação WC),D16A,2.5,1500
+Q6,vermelho,#d12424,Q6 · Termoacumulador AQS,D20A,4.0,3000
